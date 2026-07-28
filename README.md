@@ -327,9 +327,7 @@ Open To:
 
 ## Connect
 
-[![Gmail](https://img.shields.io/badge/Gmail-surajmakwana2003%40gmail.com-8B5CF6?style=flat-square&logo=gmail&logoColor=white)](mailto:surajmakwana2003@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-suraj--makwana-7C3AED?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/suraj-makwana)
-[![GitHub](https://img.shields.io/badge/GitHub-Surajmakwana7-4C1D95?style=flat-square&logo=github&logoColor=white)](https://github.com/Surajmakwana7)
+[![Gmail](https://img.shields.io/badge/Gmail-surajmakwana2003%40gmail.com-8B5CF6?style=flat-square&logo=gmail&logoColor=white)](mailto:surajmakwana2003@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-suraj--makwana-7C3AED?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/suraj-makwana) [![GitHub](https://img.shields.io/badge/GitHub-Surajmakwana7-4C1D95?style=flat-square&logo=github&logoColor=white)](https://github.com/Surajmakwana7)
 
 ---
 
