@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Suraj%20Makwana&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full%20Stack&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Suraj%20Makwana&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Developer%20%7C%20Python%20Backend%20%7C%20DevOps%2FMLOps&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=AI%2FML+Developer;Python+Backend+Developer;Transforming+ideas+into+production-grade+AI+solutions;Architecting+scalable+cloud-native+deployments;AWS+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=900&lines=AI%2FML+Developer;Python+Backend+Developer;Transforming+ideas+into+production-grade+AI+solutions;Architecting+scalable+cloud-native+deployments;AWS+Expert" alt="Typing SVG" />
 </a>
 
 ![Education](https://img.shields.io/badge/B.Tech-Sal_Institute_of_Technology_%26_Engineering_Research-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
