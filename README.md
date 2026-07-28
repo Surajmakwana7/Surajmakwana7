@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Suraj%20Makwana&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full%20Stack&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+%2F+ML+Enthusiast;Full+Stack+Developer;Building+with+Python+%26+Voice+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=AI%2FML+Developer;Python+Backend+Developer;Transforming+ideas+into+production-grade+AI+solutions;Architecting+scalable+cloud-native+deployments;AWS+Expert" alt="Typing SVG" />
 </a>
 
 ![Education](https://img.shields.io/badge/B.Tech-Sal_Institute_of_Technology_%26_Engineering_Research-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
