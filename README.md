@@ -6,17 +6,35 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=900&lines=AI%2FML+Developer;Python+Backend+Developer;Transforming+ideas+into+production-grade+AI+solutions;Architecting+scalable+cloud-native+deployments;AWS+Expert" alt="Typing SVG" />
 </a>
 
-<p><img src="https://img.shields.io/badge/B.Tech-Sal_Institute_of_Technology_%26_Engineering_Research-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white" /></p>
-<p><img src="https://img.shields.io/badge/CGPA-8.34-8B5CF6?style=for-the-badge" /></p>
-<p><img src="https://img.shields.io/badge/Location-Ahmedabad%2C_India-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white" /></p>
+<br/><br/>
 
-<p><a href="https://linkedin.com/in/suraj-makwana"><img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
-<p><a href="mailto:surajmakwana2003@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" /></a></p>
-<p><a href="https://github.com/Surajmakwana7"><img src="https://img.shields.io/badge/GitHub-Surajmakwana7-4C1D95?style=for-the-badge&logo=github&logoColor=white" /></a></p>
+<table>
+<tr>
+<td align="center" width="200"><img src="https://img.shields.io/badge/Location-Ahmedabad%2C_India-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white" /></td>
+<td align="center" width="200"><a href="https://linkedin.com/in/suraj-makwana"><img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" /></a></td>
+<td align="center" width="200"><a href="mailto:surajmakwana2003@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" /></a></td>
+<td align="center" width="200"><a href="https://github.com/Surajmakwana7"><img src="https://img.shields.io/badge/GitHub-Surajmakwana7-4C1D95?style=for-the-badge&logo=github&logoColor=white" /></a></td>
+</tr>
+</table>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Surajmakwana7&color=8B5CF6&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/Surajmakwana7?color=8B5CF6&style=flat-square&label=Followers)
-![Stars](https://img.shields.io/github/stars/Surajmakwana7?color=8B5CF6&style=flat-square&label=Stars)
+<br/>
+
+<table>
+<tr>
+<td align="center" width="260"><img src="https://img.shields.io/badge/CGPA-8.34-8B5CF6?style=for-the-badge" /></td>
+<td align="center" width="260"><img src="https://img.shields.io/badge/B.Tech-Computer_Engineering-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white" /></td>
+</tr>
+</table>
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="150"><img src="https://komarev.com/ghpvc/?username=Surajmakwana7&color=8B5CF6&style=for-the-badge&label=Profile+Views" /></td>
+<td align="center" width="150"><img src="https://img.shields.io/github/followers/Surajmakwana7?color=8B5CF6&style=for-the-badge&label=Followers" /></td>
+<td align="center" width="150"><img src="https://img.shields.io/github/stars/Surajmakwana7?color=8B5CF6&style=for-the-badge&label=Stars" /></td>
+</tr>
+</table>
 
 </div>
 
