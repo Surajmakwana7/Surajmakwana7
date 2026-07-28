@@ -30,7 +30,7 @@
 
 <table>
 <tr>
-<td align="center" width="150"><img src="https://komarev.com/ghpvc/?username=Surajmakwana7&color=8B5CF6&style=for-the-badge&label=Profile+Views" /></td>
+<td align="center" width="150"><img src="https://komarev.com/ghpvc/?username=Surajmakwana7&color=8B5CF6&style=for-the-badge&label=Profile%20Views" /></td>
 <td align="center" width="150"><img src="https://img.shields.io/github/followers/Surajmakwana7?color=8B5CF6&style=for-the-badge&label=Followers" /></td>
 <td align="center" width="150"><img src="https://img.shields.io/github/stars/Surajmakwana7?color=8B5CF6&style=for-the-badge&label=Stars" /></td>
 </tr>
