@@ -6,15 +6,20 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=900&lines=AI%2FML+Developer;Python+Backend+Developer;Transforming+ideas+into+production-grade+AI+solutions;Architecting+scalable+cloud-native+deployments;AWS+Expert" alt="Typing SVG" />
 </a>
 
-![Education](https://img.shields.io/badge/B.Tech-Sal_Institute_of_Technology_%26_Engineering_Research-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
-&nbsp;
-![CGPA](https://img.shields.io/badge/CGPA-8.34-8B5CF6?style=for-the-badge)
-&nbsp;
-![Location](https://img.shields.io/badge/Location-Science_City%2C_Ahmedabad-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/B.Tech-Sal_Institute_of_Technology_%26_Engineering_Research-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white" />
+<img src="https://img.shields.io/badge/CGPA-8.34-8B5CF6?style=for-the-badge" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suraj-makwana)
-[![Email](https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surajmakwana2003@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Surajmakwana7-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Surajmakwana7)
+<p>
+<img src="https://img.shields.io/badge/Location-Ahmedabad%2C_India-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</p>
+
+<p>
+<a href="https://linkedin.com/in/suraj-makwana"><img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:surajmakwana2003@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Surajmakwana7"><img src="https://img.shields.io/badge/GitHub-Surajmakwana7-4C1D95?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Surajmakwana7&color=8B5CF6&style=flat-square&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/Surajmakwana7?color=8B5CF6&style=flat-square&label=Followers)
@@ -262,16 +267,6 @@ Multi-language text-to-speech conversion system paired with a chatbot that respo
 <img src="https://streak-stats.demolab.com/?user=Surajmakwana7&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surajmakwana7&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA&text_color=c9d1d9&bg_color=0d1117" width="49%" />
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Surajmakwana7&theme=algolia&column=7&margin-w=8&margin-h=8&no-frame=true" />
 
 </div>
 
