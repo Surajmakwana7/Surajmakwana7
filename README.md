@@ -21,8 +21,8 @@
 
 <table>
 <tr>
-<td align="center" width="260"><img src="https://img.shields.io/badge/CGPA-8.34-8B5CF6?style=for-the-badge" /></td>
 <td align="center" width="260"><img src="https://img.shields.io/badge/B.Tech-Computer_Engineering-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white" /></td>
+<td align="center" width="260"><img src="https://img.shields.io/badge/CGPA-8.34-8B5CF6?style=for-the-badge" /></td>
 </tr>
 </table>
 
